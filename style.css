@@ -2,9 +2,6 @@
     position: relative;
     text-align: center;
 }
-.image-background {
-    height: 400px;
-}
 .center-text1 {
     position: absolute;
     top: 25%;
@@ -16,4 +13,26 @@
     top: 32%;
     left: 13%;
     font-size: 60px;
+}
+.center-button{
+    position: absolute;
+    top:42%;
+    left:16%;
+    font-size: 100px;
+}
+.checked {
+    color: orange;
+}
+.disabled:disabled {
+    opacity: 50%;
+}
+th:nth-child(even) {
+    background: black;
+}
+a:hover {
+    background-color: 0A81D1;
+}
+a:active {
+    background-color: #314CB6;
+    border-radius: 5px;
 }
