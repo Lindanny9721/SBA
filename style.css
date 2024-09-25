@@ -1,0 +1,19 @@
+.homepage-background{
+    position: relative;
+    text-align: center;
+}
+.image-background {
+    height: 400px;
+}
+.center-text1 {
+    position: absolute;
+    top: 25%;
+    left: 10%;
+    font-size: 60px;
+}
+.center-text2 {
+    position: absolute;
+    top: 32%;
+    left: 13%;
+    font-size: 60px;
+}
